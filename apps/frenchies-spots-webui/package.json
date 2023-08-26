@@ -2,6 +2,9 @@
   "name": "frenchies-spots-webui",
   "version": "1.0.0",
   "main": "index.js",
+  "engines": {
+    "node": "18.15.0"
+  },
   "scripts": {
     "start": "expo start --clear",
     "android": "expo start --clear --android",
