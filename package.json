@@ -2,7 +2,7 @@
   "name": "frenchies-spots",
   "version": "1.0.0",
   "engines": {
-    "node": "18.15.0"
+    "node": "18.14.2"
   },
   "private": true,
   "workspaces": [
